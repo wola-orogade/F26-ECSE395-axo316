@@ -1,6 +1,6 @@
 # Adewola Orogade
 ## Lab #1 Markdown and Github Basics
-### The purpose of this lab assignment is to become familiar with Markdown (.md) documentation and to learn to work with GitHub.
+### The purpose of this lab assignment is to become familiar with Markdown (.md) documentation and learn to work with GitHub.
 
 To successfully complete this lab,
 1. I learned and practiced a few basic Markdown syntaxes.
@@ -8,7 +8,8 @@ To successfully complete this lab,
 3. I made and started to make edits on this current markdown file as well as another markdown file to log my work done in my team project for this week.
 4. I wrote the brief overview of the lab assignment.
 5. I used my existing GitHub account to make a new public repository from the ECSE395 template.
-6. I decided to use Windows Powershell as a command line interface to clone the new repository and add the Week1 Markdown file to my local repository.
+6. I decided to use Windows Powershell as a command line interface to clone the new repository from the template repository.
+7. I completed all the writing for the lab1 and week1 markdown files before uploading the Week1 and lab1_overview Markdown files to my local and remote repository.
 
 **Time Reporting and Reflection**
 
