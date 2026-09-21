@@ -16,9 +16,10 @@ Andrew started drafting an email to Skye Carbin, our stakeholder, to request a m
 We continued to finish up our slides together.
 We adjourned the meeting at 5:45pm.*  
 
-I
+I worked on the Personas slides on our Needfinding Presentation to show a realistic and data-grounded story of our project's users.
 
-* 09/16 - I met with my team members to begin working on our Brainstorming Milestone Assignment.   
+* 09/16 - My team members and I presented our Needfinding Presentation to the professor and students of this course.
+I met with my team members to begin working on our Brainstorming Milestone Assignment.   
 
 This are the meeting minutes for our meeting:  
 *We met on Wednesday, September 16, 2026, at 4:00PM in Kelvin Smith Library. Andrew, Aryan, and Martin were present at this time. Adewola informed us ahead of time that he won’t be available at 4PM, and he plans to be present later on in the hour.
@@ -28,7 +29,10 @@ Adewola joined us at 4:40PM.
 While Adewola finished up brainstorming, I completed the email to Skye, sent it, and submitted a copy of the email to Canvas.
 We adjourned the meeting at 5:00PM.*  
 
-I 
+My team and I decided to individually brainstorm around 10 ideas each on a Figma board page as can be seen below:
+![This is the screenshot of each of our individual ideas](Screenshot_2026-09-21.png)
+Andrew, one of my team members, drafted and send the Concept Review email to our stakeholder to schedule our Review Meeting as can be seen below:
+![This is the PDF of the email that was sent to the stakeholder on 08/28](Concept_Review_Email.pdf)
 
 * 09/18 - I met with my team membes to continue working on our Brainstorming Milestone Assignment.  
 
@@ -38,6 +42,4 @@ The goal of this meeting is to begin discussing our brainstorming ideas with eac
 Andrew created a document to record brainstorming ideas on. This document will eventually be submitted to Canvas.
 Despite this, we made a good start on bringing up some key ideas that we all seemed to like. We also synthesized some of our similar ideas together.
 At 1:00PM, Andrew left to attend an external obligation. Others continued to discuss ideas.
-At 1:30PM, the meeting was adjourned.*  
-
-I 
+At 1:30PM, the meeting was adjourned.*

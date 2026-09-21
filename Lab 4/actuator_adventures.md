@@ -6,14 +6,14 @@ To successfully complete this lab,
 1. I made and started to make edits on this current markdown file.
 2. I opened the Lab 4 PlatformIO project and opened all the C++ source files.
 3. I built the Turned Torque Motor circuit as as can be seen in the picture below:
-![This is a picture of the built Turned Torque Motor circuit](../photos/Turned%20Torque%20Motor%20Circuit.jpg)
+![This is a picture of the built Turned Torque Motor circuit](main/Lab%204/photos/Turned%20Torque%20Motor%20Circuit.jpg)
 4. I compiled and uploaded the original TT Motor C++ program to the connected ESP32 before modifying some arguments in the code to observe the changes in the TT Motor's rotational movement - Changing the integer value of a motor's analogWrite argument consequently changed the speed of the motor, Swapping the integer values of the two motor's analogWrite arguments made the motor to rotate in the exact opposite direction of before the values were swapped, and editing the delay argument changed the duration of time that the motor rotated.
 5. I edited the TT Motor Rotate C++ program to enable the motor to continously run clockwise, stop, and run counterclockwise, and stop. 
 6. I compiled and uploaded the TT Motor Rotate program to the connected ESP32 as I troubleshooted the circuit build and program files with the output of the ESP32 and the serial output monitor.
 7. I made, compiled and uploaded a TT Motor EC C++ program, a copy of the TT Motor program, to the connected ESP32 to enable the motor rotational speed to continuously increase and decrease.
 8. I built the Servo Motor circuit as as can be seen in the picture below:
-![This is a picture of the built Servo Motor circuit](../photos/Servo%20Motor%20%20Circuit.jpg)
-9. I compiled and uploaded the original Servo Motor C++ program to the connected ESP32 before modifying some arguments in the code to observe the changes in the Servo Motor's rotational movement - Changing the integer value of a motor's analogWrite argument consequently changed the speed of the motor, Swapping the integer values of the two motor's analogWrite arguments made the motor to rotate in the exact opposite direction of before the values were swapped, and editing the delay argument changed the duration of time that the motor rotated.
+![This is a picture of the built Servo Motor circuit](main/Lab%204/photos/Servo%20Motor%20%20Circuit.jpg)
+9. I compiled and uploaded the original Servo Motor C++ program to the connected ESP32 before modifying some arguments in the code to observe the changes in the Servo Motor's rotational movement - Changing the minPulseWidth consequently changes the starting angle of the motor, changing the maxPulseWidth consequently changes the farthest angle of the motor, changing the setPeriodHertz increases the speed of the gear rotation as the motor changes angles, changing the rotation range consequetly changes the ranges of angle the motor rotates within, and editing the delay argument changed the duration of time that the motor rotates to each angle.
 10. I edited the Servo Motor Random C++ program to enable the servo to move to continuously random angles between 0°and 180°
 11. I compiled and uploaded the Servo Motor Random program to the connected ESP32 as I troubleshooted the circuit build and program files with the output of the ESP32 and the serial output monitor.
 12. I finalized this lab's C++ files before recording videos for the ESP32 and serial monitor outputs of some of the the TT Motor and Servo Motor builds
