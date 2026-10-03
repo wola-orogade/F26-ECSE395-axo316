@@ -17,7 +17,7 @@ Andrew: Headband
 We planned a meeting for tomorrow morning. Andrew sent a Google calendar invite.
 We adjourned the meeting at 10:18PM.*  
 
-I
+I added my 10 ideas with their related functional and technical specifications to our individual brainstorming table and started to work on our 3 promising integrated concepts with my team members.
 
 * 09/21 - I met with my team members to continue working on our Brainstorming Milestone Assignment.   
 
@@ -30,21 +30,20 @@ We all fleshed out the larger idea tables by relating specs to every idea listed
 Once we were almost completed with the brainstorming paper, we reviewed the instructions for next week’s assignment and started to form a plan for creating our concept slides to present to Skye before we meet on Wednesday.
 We adjourned at 1:45pm.*  
 
-I
+I worked on describing each of our 3 promising integrated concepts' functional and technical specifications.
 
-* 09/23 - I met with our stakeholder and my team members to have our Concept Review Meeting and began working with my team members on our Concept Selection & Gantt Chart Assignment.  
+* 09/23 - My team members and I met with our stakeholder to have our Concept Review Meeting.
+Aryan, Andrew, and Martin, my team members, were the main individuals presenting and discussing our team's 3 promising concepts to our stakeholder as I actively took meeting minutes of our meeting.
  
-This are the meeting minutes for our meeting:  
+These are my notes from our meeting with the stakeholder:  
 ***Sound-Sensor Glasses**
 Dislike - Epileptic - might result in strobing (as a result of the flashing and movement of light) that might affect to the user thus might not be practical
 Like - Visual indicator, significance in direction
 Others -  
-
 **Sound Origin Navigation and Indication Compass (SONIC)**
 Like - Two indicator for the sources of sound, secondary sounds, portability
 Dislike - Would not want to easily forget/lose
 Others - Formatted as a watch, or possibly accessories
-
 **Tactile Detecting Headband**
 Dislike - Workplace consequently might prevent a headband/beanies from being used, buzzing might be disruptive to other users doing meetings
 Like -
@@ -55,7 +54,7 @@ Can the ideas make sense in their real life
 —----------------------------------------------------------------------------------------------------------------------------  
 Integrating concepts i.e. compass idea has vibrative response to louder sounds*  
 
-I
+My team members and I began working with my team members on our Concept Selection & Gantt Chart Assignment. 
 
 * 09/25 - I met with my team members to continue working on our Concept Selection & Gantt Chart Assignment.  
 
@@ -68,4 +67,4 @@ Together, we discussed revisions to our functional and technical specs and recor
 After that, we worked on setting up the format of our Gantt Chart. We laid out the main course deadlines.
 Adjourned at 2:00pm.*  
 
-I
+I worked on documenting the Stakeholder Feedback of each my team's concepts we presented in our Stakeholder's Concept Review Meeting.
