@@ -26,3 +26,5 @@ At 1:00pm, we adjourned the meeting.*
 
 I continue working on the personas with my team members and we collectively finalized and reviewed our work on this assignment.
 My team members and I decided to confirm our weekly meeting times early in the upcoming week.
+
+* 09/10 - I met with my team members to t
