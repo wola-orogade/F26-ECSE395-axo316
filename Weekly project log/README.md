@@ -9,4 +9,5 @@ This repository is Adewola's weekly log and the purpose of this repository is to
 | Week 3  | [Project Background Needs Statement Work & Functional Technical Specifications](Week3.md)|
 | Week 4  | [Needfinding Presentation Work, Communication between Team & Stakeholder, and Brainstorming Milestone Work](Week4.md)|
 | Week 5  | [Brainstorming Milestone Work, Stakeholder Concept Review Meeting, and Concept Selection & Gantt Chart Work](Week5.md)|
-| Week 6  | [...](Week6.md)|
+| Week 6  | [Concept Selection & Gantt Chart Work and System Architecture & Prototype Plan Work](Week6.md)|
+| Week 7  | [System Architecture & Prototype Plan Work ...](Week7.md)|
