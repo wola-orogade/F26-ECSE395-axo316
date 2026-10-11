@@ -1,7 +1,7 @@
 ### Adewola Orogade
 ## Week 10/04
 
-* 10/05 - I joined my team members virtually to continue working on our System Architecture and Prototype Plan.  
+* 10/05 - I joined my team members virtually to continue working on our System Architecture and Prototype Plan Assignment.  
 
 This are the meeting minutes for our meeting:  
 *We met on Monday, October 5, 2026, at 11:30 PM in Kelvin Smith Library. Andrew and Aryan were present in person, and Adewola was present via Zoom. Martin is in class at this time but plans to arrive within approximately one hour.
@@ -19,14 +19,14 @@ Martin - physical architecture
 All other parts of the document have now been completed by the individuals to whom they were assigned.
 Aryan submitted the document and we adjourned at 1:10 PM.*  
 
-I .
+I worked on outlining the tasks and dates of the week of the Verification and Validation Plan Milestones Assignment in my team's Gantt chart..
 
-* 09/ - I met with my team members.   
+* 10/07 - I met with my team members to begin working on our Verification and Validation Plan Assignment and.   
 
 This are the meeting minutes for our meeting:  
 **  
 
-* 10/ - .  
+* 10/09 - .  
  
 These are my notes from our meeting with the stakeholder:  
 **  
