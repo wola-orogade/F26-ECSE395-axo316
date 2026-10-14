@@ -21,7 +21,7 @@ I worked on the Personas slides on our Needfinding Presentation to show a realis
 * 09/16 - My team members and I presented our Needfinding Presentation to the professor and students of this course.
 I met with my team members to begin working on our Brainstorming Milestone Assignment.   
 
-This are the meeting minutes for our meeting:  
+This are my notes for our meeting:  
 *We met on Wednesday, September 16, 2026, at 4:00PM in Kelvin Smith Library. Andrew, Aryan, and Martin were present at this time. Adewola informed us ahead of time that he won’t be available at 4PM, and he plans to be present later on in the hour.
 The goals of this meeting are to begin brainstorming and to finish drafting an email to Skye requesting a Concept Review meeting.
 We began by brainstorming individually on a Figma board created by Aryan. Shown below is the initial result of our brainstorming.

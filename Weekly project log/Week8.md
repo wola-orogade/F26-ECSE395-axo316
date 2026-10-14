@@ -1,14 +1,14 @@
 ### Adewola Orogade
-## Week 10/04
+## Week 10/11
 
-* 10/05 - I .  
+* 10/12 - I .  
 
 This are the meeting minutes for our meeting:  
 **  
 
 I .
 
-* 10/07 - I .   
+* 10/14 - I .   
 
 This are the meeting minutes for our meeting:  
 **  
