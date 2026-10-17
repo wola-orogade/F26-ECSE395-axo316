@@ -1,7 +1,7 @@
 ### Adewola Orogade
 ## Week 10/04
 
-* 10/05 - I joined my team members virtually to continue working on our System Architecture and Prototype Plan.  
+* 10/05 - I joined my team members virtually to continue working on our System Architecture and Prototype Plan Assignment.  
 
 This are the meeting minutes for our meeting:  
 *We met on Monday, October 5, 2026, at 11:30 PM in Kelvin Smith Library. Andrew and Aryan were present in person, and Adewola was present via Zoom. Martin is in class at this time but plans to arrive within approximately one hour.
