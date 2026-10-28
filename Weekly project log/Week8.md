@@ -1,7 +1,7 @@
 ### Adewola Orogade
 ## Week 10/11
 
-* 10/12 - I I met with my team members to continue working on our Verification & Validation Plan Assignment.  
+* 10/12 - I met with my team members to continue working on our Verification & Validation Plan Assignment.  
 
 This are the meeting minutes for our meeting:  
 *We met in Glennan lab on Monday, October 12, 2026, at 2:00 PM. All members were present.
@@ -36,3 +36,17 @@ Adjourned at 3:10 PM.*
 
 My team and I finalized the build of our Project's Prototype Stage 2 as can be seen below:
 ![This is a picture of our Prototype Stage 2](Prototype_Stage_2.png).
+
+* 10/17 - I  met with my team members to continue working on our Prototype Stage 3.  
+
+This are the meeting minutes for our meeting:  
+*The meeting began on Saturday, October 17, at 3:00 pm. We met at the Glennan undergraduate laboratory. All team members were present.
+At the beginning of the meeting, every team member picked up what they were working on in the previous meeting, yesterday. Andrew continued to work with his microphone and obtain frequencies from it, Adewola and Aryan continued to work on implementing the vibration subsystem, and Martin continued to work on the display and directional microphone subsystems and fix bugs in the code.
+Adewola and Aryan have come to the decision to use the TT motor to simulate our vibration subsystem.
+Martin has fixed a number of bugs and features for the display and microphone subsystems.
+Andrew has experimented with the MEMS microphone and has found out numerous 
+The team began to divide the work for the group presentation next week. We’ve divided the work to where Adewola works on the storyline, Andrew works on the functional and technical specifications, Martin works on the design overview, Aryan works on the design overview and all the team members will work on the evaluation plan.
+The team also began to divide the work for the Prototype 1, 2, and 3 PDF. The work was divided with each prototype with Aryan working on explaining Prototype 1, Andrew working on explaining Prototype 2, Martin working on explaining Prototype 3, and Adewola working on connecting the verification and the validation plan.
+Adjourned at 6:00 PM.*  
+
+I 
