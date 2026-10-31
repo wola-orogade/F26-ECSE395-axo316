@@ -10,9 +10,5 @@ This repository is Adewola's weekly log and the purpose of this repository is to
 | Week 4  | [Needfinding Presentation Work, Communication between Team & Stakeholder, and Brainstorming Milestone Work](Week4.md)|
 | Week 5  | [Brainstorming Milestone Work, Stakeholder Concept Review Meeting, and Concept Selection & Gantt Chart Work](Week5.md)|
 | Week 6  | [Concept Selection & Gantt Chart Work and System Architecture & Prototype Plan Work](Week6.md)|
-<<<<<<< HEAD
-| Week 7  | [System Architecture & Prototype Plan Work and Prsototypes Stages 1 and 2](Week7.md)|
-=======
 | Week 7  | [System Architecture & Prototype Plan Work, Prototype Stages 1 and 2, and Verification & Validation Plan Work](Week7.md)|
 | Week 8  | [...](Week8.md)|
->>>>>>> 2179dff3c345829cf4db8c2010745b8ed33ebf37
