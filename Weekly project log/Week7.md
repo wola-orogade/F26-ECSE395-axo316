@@ -21,7 +21,7 @@ Aryan submitted the document and we adjourned at 1:10 PM.*
 
 I worked on describing the purpose of each of the functional blocks in our system's Functional Block Diagram and explaining the mechanical, electrical, and software information interfaces of our system.
 
-* 10/07 - I met with my team members to begin working on our Prototype Stages 1 and Prototype Stages 2.   
+* 10/07 - I met with my team members to begin working on our Prototypes Stages 1 and 2.   
 
 This are the meeting minutes for our meeting:  
 *We met on Wednesday, October 7, 2026, at 3:00 PM in Glennan lab. All members were present.
@@ -31,7 +31,7 @@ We created bitmaps to represent the arrows that will display on the screen in re
 When our microphones arrive, we will use them to begin building our mic array.
 Adjourned at 4:30 PM.*  
 
-* 10/09 - I met with my team members to begin working on our Verification and Validation Strategy and continue working on our Prototype Stages 2.  
+* 10/09 - I met with my team members to begin working on our Verification and Validation Plan and continue working on our Prototype Stages 2.  
  
 These are my notes from our meeting with the stakeholder:  
 *We met on Friday, October 9, 2026, at 12:40 PM, in Glennan lounge. All members were present.

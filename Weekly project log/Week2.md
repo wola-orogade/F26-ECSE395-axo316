@@ -2,6 +2,7 @@
 ## Week 08/30
 
 * 09/01 - After my team received and confirming a meeting time with our stakeholder, I started drafting a Stakeholder Needfinding Interview document for my Team to begin preparing for our upcoming meeting with our Stakeholder. 
+
 * 09/02 - I briefly met with my Team to have a brief overview of the logistics for our meeting with our stakeholder a couple of minutes before our interview.
 My team members and I met with our stakeholder at the scheduled time followed through on our decisions and utilized our updated Interview document to interview our stakeholder: Andrew, one of my team members, and I were the main individuals asking and discussing with the stakeholder about her situation and her needs as Martin and Aryan, my other two team members, actively took meeting minutes of our interview.
 After our interview, my team members and I discussed how we felt the meeting went and what we thought we took out of our conversation with our stakeholder. We briefly reviewed the rubric for our Project Background and Needs Statement assignment and each made a Figma account to make our Figma board page. Lastly, my team members and I decided on the next date that we will meet to continue our work on our Needs Statement assignment.
